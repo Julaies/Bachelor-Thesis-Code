@@ -1,0 +1,4 @@
+Pretrained model. 
+Model 1 shows a filter similar to that found in https://arxiv.org/pdf/2003.01504.pdf but is very sparse.
+
+Lasso factor for model 1 during training: lambda = 0.0035
